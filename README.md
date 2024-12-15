@@ -2,6 +2,10 @@
 
 This repository contains two Python scripts that automate processing HTML files saved from the `rezidentiat.com` website. These scripts help users extract and reformat data into more usable formats, such as `.docx` files for reports and `.txt` files for Quizlet flashcards.
 
+## Important Note
+
+The scripts are made for the version of the `rezidentiat.com` website that was available in the year 2024. As the website can suffer changes, the scripts could possibly not work anymore.
+
 ## Scripts Overview
 
 ### 1. **grile.py**
