@@ -90,8 +90,6 @@ pip install python-docx beautifulsoup4
 
 ## License
 
-## License
-
 This repository is licensed under the MIT License:
 
 ```
