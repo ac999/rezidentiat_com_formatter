@@ -58,7 +58,7 @@ The script generates a `.txt` file with the same name as the input file, but wit
 
 - Flashcards formatted as required by Quizlet:
   - **Term** `tab` **Definition**
-- Each file groups up to 50 flashcards for easy import into Quizlet.
+- Each file groups all the flashcards to sub-groups of 50 flashcard for easy import into Quizlet.
 
 #### Example
 
