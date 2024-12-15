@@ -4,7 +4,7 @@ This repository contains two Python scripts that automate processing HTML files 
 
 ## Important Note
 
-The scripts are made for the version of the `rezidentiat.com` website that was available in the year 2024. As the website can suffer changes, the scripts could possibly not work anymore.
+These scripts were developed for the `rezidentiat.com` website as it existed in 2024. Future updates or changes to the website's structure may affect the functionality of the scripts.
 
 ## Scripts Overview
 
