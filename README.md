@@ -53,7 +53,7 @@ python3 flashcard.py [source]
 The script generates a `.txt` file with the same name as the input file, but with the `.txt` extension. The file contains:
 
 - Flashcards formatted as required by Quizlet:
-  - **Term**	**Definition**
+  - **Term** `tab` **Definition**
 - Each file groups up to 50 flashcards for easy import into Quizlet.
 
 #### Example
